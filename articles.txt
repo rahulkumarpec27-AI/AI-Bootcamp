@@ -1,0 +1,4 @@
+Python is easy.
+I like Python.
+I like Python.
+Python is powerful.
